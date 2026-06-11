@@ -5,8 +5,10 @@
 }
 
 .cabecalho-titulo{
+    font-size: 3rem;
     color: black;
-    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 20px;
 }
 
 .cabecalho-menu{
@@ -16,7 +18,7 @@
 
 .cabecalho-menu-item{
     text-decoration: none;
-    color: green;
+    color: red;
     margin: 0 15px;
     font-weight: 600;
     transition: color 0.2s;
